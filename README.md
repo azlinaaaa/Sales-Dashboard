@@ -110,8 +110,7 @@ This dashboard provides actionable insights for supermarket management by:
 
 ## 👤 Author
 
-**Norazlina Shariff**  
-Data Analyst Intern Portfolio Project  
-Power BI • Data Visualization • Business Intelligence
+**Norazlina Mohd Shariff**  
+**Data Science Student**
 
 ---
