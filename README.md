@@ -95,8 +95,6 @@ Dataset used in this project:
 
 ![Sales Dashboard](https://github.com/azlinaaaa/Sales-Dashboard/blob/63dc9d62d9ffec78cc57eecda81705eb39a2652f/image.png)
 
-*(Upload your dashboard screenshot and rename it as `dashboard.png`)*
-
 ---
 
 ## ✅ Business Impact
