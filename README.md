@@ -93,7 +93,7 @@ Dataset used in this project:
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard Screenshot](dashboard.png)
+![Sales Dashboard Screenshot]([dashboard.png](https://github.com/azlinaaaa/Sales-Dashboard/blob/63dc9d62d9ffec78cc57eecda81705eb39a2652f/image.png))
 
 *(Upload your dashboard screenshot and rename it as `dashboard.png`)*
 
