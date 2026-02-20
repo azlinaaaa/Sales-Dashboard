@@ -87,8 +87,6 @@ Dataset used in this project:
 
 - Supermarket Sales Dataset (Practice File)
 
-*(You may replace this with your dataset link if available)*
-
 ---
 
 ## 📸 Dashboard Preview
