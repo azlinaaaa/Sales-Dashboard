@@ -207,15 +207,6 @@ Revenue and margin data support budgeting, planning, and management reporting.
 
 ---
 
-## 🚀 Suggested Future Improvements
-
-* Add **Target vs Actual KPI indicators** (green/red performance signals)
-* Include **Customer Cohort or Retention Analysis**
-* Enable **Drill-Down Functionality** for products and categories
-* Integrate **Sales Forecasting Models** based on historical trends
-
----
-
 ## 🛠 Tools & Skills Applied
 
 * Power BI Dashboard Development
